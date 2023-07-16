@@ -1,6 +1,6 @@
 <div align="center">
 
-# # LinkedIn Clone DEPLOYMENT
+# LinkedIn Clone DEPLOYMENT
 This is LinkedIn Clone Mobile Application. Using React-Native and Firebase.
 </div>
 
